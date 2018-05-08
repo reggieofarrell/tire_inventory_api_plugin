@@ -1,0 +1,12 @@
+d.sh
+
+vendor
+
+.DS_Store
+
+composer_backup.zip
+
+# composer.lock
+
+timer_log.txt
+sql_error_log.txt

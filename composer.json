@@ -1,0 +1,5 @@
+{
+  "require": {
+    "bloafer/dust-php": "0.1.*"
+  }
+}

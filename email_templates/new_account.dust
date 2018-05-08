@@ -1,0 +1,25 @@
+<!--
+Subject: New Account at tireinventory.com
+-->
+
+{>default /}
+
+{<body}
+
+<div>
+  <img src="{base_url}/wp-content/uploads/inventoryLogo.png" width="150" />
+</div>
+<p>
+  You have a new account at tireinventory.com
+</p>
+<p>
+  login: {email}
+<br/>
+  password: {password}
+</p>
+
+<p>
+  You can change your password after login if you like by clicking the user menu in the top right corner and goint to 'My Account'.
+</p>
+
+{/body}
